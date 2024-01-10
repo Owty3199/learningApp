@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "19540626203",
+    "project_id": "atelier4-o-toughzaoui-iir5gx",
+    "storage_bucket": "atelier4-o-toughzaoui-iir5gx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19540626203:android:8237ffc5c5a4f9d20fe1be",
+        "android_client_info": {
+          "package_name": "com.example.atelier4_o_toughzaoui_iir5g4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyfp6NoGn4STJAjP7Zcb91LUU3fYs4SuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
